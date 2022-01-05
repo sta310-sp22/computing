@@ -1,4 +1,4 @@
-# Making a GitHub account
+# Creating a new GitHub account
 
 - Go to [github.com](https://github.com/) and click to sign up for GitHub.
 
